@@ -7,4 +7,10 @@ function add(a,b) {
   return a + b
 }
 
+/* subtract, subtracts two floats a from b and returns the answer
+*/
+function subtract(a,b) {
+  return a-b 
+}
+
 /*
