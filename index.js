@@ -28,7 +28,8 @@ function divide(a,b) {
 /* inc, increments a float n by 1 and returns the result
 */
 function inc(n) {
-  return n++
+  n++
+  return n
 }
 
 /*dec, decrements a float n and returns the result
