@@ -13,4 +13,8 @@ function subtract(a,b) {
   return a-b 
 }
 
-/*
+/* multiply, multiplys two floats and returns the answer
+*/
+function multiply(a,b) {
+  return a*b
+}
