@@ -35,7 +35,8 @@ function inc(n) {
 /*dec, decrements a float n and returns the result
 */
 function dec(n) {
-  return n--
+  n--
+  return n
 }
 
 /* makeInt, accepts a string and converts into an integer
